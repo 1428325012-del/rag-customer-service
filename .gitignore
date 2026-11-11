@@ -1,0 +1,13 @@
+# 密钥，绝不能提交
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地生成的向量库
+chroma_db/
+
+# 学习过程中的临时脚本（可选，不想公开就保留）
+Untitled-1.py
+聊天记忆.py
