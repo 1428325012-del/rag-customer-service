@@ -1,0 +1,2 @@
+# 仅 Chroma 持久化版（rag_chroma.py）需要；service.py 零第三方依赖
+chromadb>=0.4.0
